@@ -1,0 +1,16 @@
+{
+  "name": "rahatulahsan/philosophy-shortcode",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/rahatulahsan/philosophy-shortcode",
+  "authors": [
+    {
+      "name": "Philosophy Shortcode",
+      "homepage": "https://rahatulahsan.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=8.0"
+  }
+}
